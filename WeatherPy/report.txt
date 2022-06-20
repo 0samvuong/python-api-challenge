@@ -1,537 +1,1614 @@
-Processing record 1 | punta arenas 
-Processing record 2 | jamestown 
-Processing record 3 | bluff 
-Processing record 4 | shenavan 
-Processing record 5 | medvedovskaya 
-Processing record 6 | fairbanks 
-Processing record 7 | ushuaia 
-Processing record 8 | chuy 
-Processing record 9 | rikitea 
-Processing record 10 | dikson 
-Processing record 11 | kapaa 
-Processing record 12 | ushuaia 
-Processing record 13 | coquimbo 
-Processing record 14 | busselton 
-Processing record 15 | hithadhoo 
-Processing record 16 | hobart 
-Processing record 17 | bonavista 
-Processing record 18 | camana 
-Processing record 19 | asau 
-Processing record 20 | georgetown 
-Processing record 21 | remanso 
-Processing record 22 | orlik 
-Processing record 23 | manjeshwar 
-Processing record 24 | barrow 
-Processing record 25 | lokosovo 
-Processing record 26 | dingle 
-Processing record 27 | novorzhev 
-Processing record 28 | luanda 
-Processing record 29 | dikson 
-Processing record 30 | yangjiang 
-Processing record 31 | laguna 
-Processing record 32 | barrow 
-Processing record 33 | tuatapere 
-Processing record 34 | mvuma 
-Processing record 35 | tasiilaq 
-Processing record 36 | port alfred 
-Processing record 37 | nikolskoye 
-Processing record 38 | kaitangata 
-Processing record 39 | ribeira grande 
-Processing record 40 | lompoc 
-Processing record 41 | tuktoyaktuk 
-Processing record 42 | rikitea 
-Processing record 43 | solok 
-Processing record 44 | arraial do cabo 
-Processing record 45 | tuktoyaktuk 
-Processing record 46 | huarmey 
-Processing record 47 | bredasdorp 
-Processing record 48 | jamestown 
-Processing record 49 | ushuaia 
-Processing record 50 | georgetown 
-Processing record 51 | kapaa 
-Processing record 52 | karaul 
- Not found: karaul Skipping 
-Processing record 53 | caborca 
-Processing record 54 | richards bay 
-Processing record 55 | port alfred 
-Processing record 56 | thompson 
-Processing record 57 | khatanga 
-Processing record 58 | mukhen 
-Processing record 59 | barrow 
-Processing record 60 | lorengau 
-Processing record 61 | mahebourg 
-Processing record 62 | yellowknife 
-Processing record 63 | samusu 
- Not found: samusu Skipping 
-Processing record 64 | falaleu 
- Not found: falaleu Skipping 
-Processing record 65 | punta arenas 
-Processing record 66 | koundara 
-Processing record 67 | thompson 
-Processing record 68 | batouri 
-Processing record 69 | udachnyy 
-Processing record 70 | punta arenas 
-Processing record 71 | punta arenas 
-Processing record 72 | hermanus 
-Processing record 73 | bon accord 
-Processing record 74 | cape town 
-Processing record 75 | saskylakh 
-Processing record 76 | avarua 
-Processing record 77 | carnarvon 
-Processing record 78 | arraial do cabo 
-Processing record 79 | hermanus 
-Processing record 80 | provideniya 
-Processing record 81 | joshimath 
-Processing record 82 | hilo 
-Processing record 83 | pisco 
-Processing record 84 | ushuaia 
-Processing record 85 | taolanaro 
- Not found: taolanaro Skipping 
-Processing record 86 | vaini 
-Processing record 87 | tabou 
-Processing record 88 | leningradskiy 
-Processing record 89 | hobart 
-Processing record 90 | namibe 
-Processing record 91 | oranjemund 
-Processing record 92 | aklavik 
-Processing record 93 | ongandjera 
-Processing record 94 | barawe 
- Not found: barawe Skipping 
-Processing record 95 | busselton 
-Processing record 96 | isangel 
-Processing record 97 | qaanaaq 
-Processing record 98 | ushuaia 
-Processing record 99 | hermanus 
-Processing record 100 | sitka 
-Processing record 101 | ushuaia 
-Processing record 102 | ushuaia 
-Processing record 103 | lagdo 
-Processing record 104 | homer 
-Processing record 105 | banda aceh 
-Processing record 106 | mys shmidta 
- Not found: mys shmidta Skipping 
-Processing record 107 | tuatapere 
-Processing record 108 | illoqqortoormiut 
- Not found: illoqqortoormiut Skipping 
-Processing record 109 | jibuti 
-Processing record 110 | rikitea 
-Processing record 111 | litovko 
-Processing record 112 | bethel 
-Processing record 113 | saint george 
-Processing record 114 | butaritari 
-Processing record 115 | tarudant 
- Not found: tarudant Skipping 
-Processing record 116 | port alfred 
-Processing record 117 | barentsburg 
- Not found: barentsburg Skipping 
-Processing record 118 | batesville 
-Processing record 119 | atuona 
-Processing record 120 | makokou 
-Processing record 121 | castro 
-Processing record 122 | kizukuri 
-Processing record 123 | lasa 
-Processing record 124 | albany 
-Processing record 125 | albany 
-Processing record 126 | busselton 
-Processing record 127 | atuona 
-Processing record 128 | burnie 
-Processing record 129 | vaini 
-Processing record 130 | kawana waters 
- Not found: kawana waters Skipping 
-Processing record 131 | carnarvon 
-Processing record 132 | provideniya 
-Processing record 133 | mataura 
-Processing record 134 | coos bay 
-Processing record 135 | perelyub 
-Processing record 136 | illoqqortoormiut 
- Not found: illoqqortoormiut Skipping 
-Processing record 137 | saint-pierre 
-Processing record 138 | san patricio 
-Processing record 139 | torbay 
-Processing record 140 | hovd 
-Processing record 141 | mataura 
-Processing record 142 | buluang 
-Processing record 143 | ushuaia 
-Processing record 144 | rikitea 
-Processing record 145 | albany 
-Processing record 146 | jamestown 
-Processing record 147 | mersing 
-Processing record 148 | barrow 
-Processing record 149 | busselton 
-Processing record 150 | sicamous 
-Processing record 151 | tasiilaq 
-Processing record 152 | lolua 
- Not found: lolua Skipping 
-Processing record 153 | kholm 
-Processing record 154 | kodiak 
-Processing record 155 | vaini 
-Processing record 156 | iralaya 
-Processing record 157 | dalvik 
-Processing record 158 | garowe 
-Processing record 159 | dvinskoy 
-Processing record 160 | bluff 
-Processing record 161 | vila velha 
-Processing record 162 | kirkwood 
-Processing record 163 | dikson 
-Processing record 164 | meulaboh 
-Processing record 165 | mogadishu 
-Processing record 166 | provideniya 
-Processing record 167 | attawapiskat 
- Not found: attawapiskat Skipping 
-Processing record 168 | bredasdorp 
-Processing record 169 | ushuaia 
-Processing record 170 | praia da vitoria 
-Processing record 171 | bengkulu 
-Processing record 172 | bethel 
-Processing record 173 | kavaratti 
-Processing record 174 | ancud 
-Processing record 175 | semey 
-Processing record 176 | carnarvon 
-Processing record 177 | cape town 
-Processing record 178 | luderitz 
-Processing record 179 | thompson 
-Processing record 180 | codrington 
-Processing record 181 | atuona 
-Processing record 182 | tilichiki 
-Processing record 183 | kavieng 
-Processing record 184 | kadykchan 
- Not found: kadykchan Skipping 
-Processing record 185 | khatanga 
-Processing record 186 | lebu 
-Processing record 187 | komsomolskiy 
-Processing record 188 | qui nhon 
-Processing record 189 | talnakh 
-Processing record 190 | hami 
-Processing record 191 | barrow 
-Processing record 192 | vila franca do campo 
-Processing record 193 | sorvag 
- Not found: sorvag Skipping 
-Processing record 194 | puerto ayora 
-Processing record 195 | kalmunai 
-Processing record 196 | kuche 
- Not found: kuche Skipping 
-Processing record 197 | mataura 
-Processing record 198 | tarakan 
-Processing record 199 | nemuro 
-Processing record 200 | harper 
-Processing record 201 | mar del plata 
-Processing record 202 | dukat 
-Processing record 203 | saint-philippe 
-Processing record 204 | albany 
-Processing record 205 | puerto ayora 
-Processing record 206 | cherskiy 
-Processing record 207 | avarua 
-Processing record 208 | ushuaia 
-Processing record 209 | punta arenas 
-Processing record 210 | bluff 
-Processing record 211 | punta arenas 
-Processing record 212 | moose factory 
-Processing record 213 | rikitea 
-Processing record 214 | puerto ayora 
-Processing record 215 | xuddur 
-Processing record 216 | kapaa 
-Processing record 217 | bluff 
-Processing record 218 | vao 
-Processing record 219 | qaanaaq 
-Processing record 220 | garowe 
-Processing record 221 | malazgirt 
-Processing record 222 | hilo 
-Processing record 223 | rikitea 
-Processing record 224 | hobart 
-Processing record 225 | torbay 
-Processing record 226 | dajal 
-Processing record 227 | alihe 
-Processing record 228 | meulaboh 
-Processing record 229 | mataura 
-Processing record 230 | hermanus 
-Processing record 231 | ostrovnoy 
-Processing record 232 | cesvaine 
-Processing record 233 | bargal 
- Not found: bargal Skipping 
-Processing record 234 | hobart 
-Processing record 235 | carnarvon 
-Processing record 236 | carnarvon 
-Processing record 237 | mataura 
-Processing record 238 | mataura 
-Processing record 239 | sao filipe 
-Processing record 240 | flin flon 
-Processing record 241 | broken hill 
-Processing record 242 | falciu 
-Processing record 243 | ushuaia 
-Processing record 244 | dikson 
-Processing record 245 | saleaula 
- Not found: saleaula Skipping 
-Processing record 246 | saint george 
-Processing record 247 | busselton 
-Processing record 248 | malwan 
- Not found: malwan Skipping 
-Processing record 249 | thompson 
-Processing record 250 | esperance 
-Processing record 251 | tanout 
-Processing record 252 | sitka 
-Processing record 253 | ketchikan 
-Processing record 254 | provideniya 
-Processing record 255 | mataura 
-Processing record 256 | new norfolk 
-Processing record 257 | upernavik 
-Processing record 258 | grand-lahou 
-Processing record 259 | ushuaia 
-Processing record 260 | amderma 
- Not found: amderma Skipping 
-Processing record 261 | grand river south east 
- Not found: grand river south east Skipping 
-Processing record 262 | mys shmidta 
- Not found: mys shmidta Skipping 
-Processing record 263 | poum 
-Processing record 264 | new norfolk 
-Processing record 265 | leningradskiy 
-Processing record 266 | hilo 
-Processing record 267 | cape town 
-Processing record 268 | clyde river 
-Processing record 269 | bengkulu 
-Processing record 270 | castro 
-Processing record 271 | kamskiye polyany 
-Processing record 272 | geilo 
-Processing record 273 | juegang 
-Processing record 274 | lavrentiya 
-Processing record 275 | busselton 
-Processing record 276 | presidencia roque saenz pena 
-Processing record 277 | guerrero negro 
-Processing record 278 | mar del plata 
-Processing record 279 | san quintin 
-Processing record 280 | mbini 
-Processing record 281 | bredasdorp 
-Processing record 282 | yenagoa 
-Processing record 283 | ribeira brava 
-Processing record 284 | dicabisagan 
-Processing record 285 | aklavik 
-Processing record 286 | riyadh 
-Processing record 287 | linfen 
-Processing record 288 | kavaratti 
-Processing record 289 | saint-augustin 
-Processing record 290 | barrow 
-Processing record 291 | jamestown 
-Processing record 292 | punta arenas 
-Processing record 293 | bambous virieux 
-Processing record 294 | new norfolk 
-Processing record 295 | grand river south east 
- Not found: grand river south east Skipping 
-Processing record 296 | severo-kurilsk 
-Processing record 297 | rikitea 
-Processing record 298 | georgetown 
-Processing record 299 | kodino 
-Processing record 300 | attawapiskat 
- Not found: attawapiskat Skipping 
-Processing record 301 | grand gaube 
-Processing record 302 | high level 
-Processing record 303 | port hedland 
-Processing record 304 | arraial do cabo 
-Processing record 305 | ushuaia 
-Processing record 306 | ribeira grande 
-Processing record 307 | barrow 
-Processing record 308 | arraial do cabo 
-Processing record 309 | komsomolskiy 
-Processing record 310 | punta arenas 
-Processing record 311 | bengkulu 
-Processing record 312 | champerico 
-Processing record 313 | mataura 
-Processing record 314 | hamilton 
-Processing record 315 | provideniya 
-Processing record 316 | castro 
-Processing record 317 | rikitea 
-Processing record 318 | fortuna 
-Processing record 319 | pemba 
-Processing record 320 | east london 
-Processing record 321 | acapulco 
-Processing record 322 | isla mujeres 
-Processing record 323 | vagur 
-Processing record 324 | saskylakh 
-Processing record 325 | barrow 
-Processing record 326 | neuquen 
-Processing record 327 | jamestown 
-Processing record 328 | barranquilla 
-Processing record 329 | kutno 
-Processing record 330 | dingle 
-Processing record 331 | cidreira 
-Processing record 332 | rikitea 
-Processing record 333 | cherskiy 
-Processing record 334 | boa vista 
-Processing record 335 | gravdal 
-Processing record 336 | newport 
-Processing record 337 | busselton 
-Processing record 338 | east london 
-Processing record 339 | saint-philippe 
-Processing record 340 | constitucion 
-Processing record 341 | bethel 
-Processing record 342 | hermanus 
-Processing record 343 | tingo maria 
-Processing record 344 | east london 
-Processing record 345 | hithadhoo 
-Processing record 346 | san patricio 
-Processing record 347 | vaini 
-Processing record 348 | russell 
-Processing record 349 | hobart 
-Processing record 350 | santa marinella 
-Processing record 351 | kapaa 
-Processing record 352 | kapaa 
-Processing record 353 | palasa 
-Processing record 354 | mar del plata 
-Processing record 355 | jamestown 
-Processing record 356 | kapaa 
-Processing record 357 | rikitea 
-Processing record 358 | hervey bay 
-Processing record 359 | kapaa 
-Processing record 360 | nanortalik 
-Processing record 361 | pumiao 
-Processing record 362 | rikitea 
-Processing record 363 | tsogni 
-Processing record 364 | tiksi 
-Processing record 365 | kruisfontein 
-Processing record 366 | cidreira 
-Processing record 367 | kamenka 
-Processing record 368 | georgetown 
-Processing record 369 | mikhaylovka 
-Processing record 370 | busselton 
-Processing record 371 | taolanaro 
- Not found: taolanaro Skipping 
-Processing record 372 | hobart 
-Processing record 373 | saskylakh 
-Processing record 374 | taolanaro 
- Not found: taolanaro Skipping 
-Processing record 375 | klyuchevskiy 
-Processing record 376 | hermanus 
-Processing record 377 | mar del plata 
-Processing record 378 | vila do maio 
-Processing record 379 | ushuaia 
-Processing record 380 | rikitea 
-Processing record 381 | georgetown 
-Processing record 382 | yellowknife 
-Processing record 383 | hithadhoo 
-Processing record 384 | lebu 
-Processing record 385 | behbahan 
-Processing record 386 | vallenar 
-Processing record 387 | caravelas 
-Processing record 388 | hambantota 
-Processing record 389 | kodiak 
-Processing record 390 | ligayan 
-Processing record 391 | siguiri 
-Processing record 392 | mataura 
-Processing record 393 | shenjiamen 
-Processing record 394 | castro 
-Processing record 395 | albany 
-Processing record 396 | xuddur 
-Processing record 397 | saldanha 
-Processing record 398 | redlands 
-Processing record 399 | jamestown 
-Processing record 400 | canazas 
-Processing record 401 | cape town 
-Processing record 402 | chuy 
-Processing record 403 | ashland 
-Processing record 404 | mahebourg 
-Processing record 405 | camacha 
-Processing record 406 | kysyl-syr 
-Processing record 407 | provideniya 
-Processing record 408 | palabuhanratu 
+Processing record 1 | arroyo 
+Processing record 2 | severo-kurilsk 
+Processing record 3 | busselton 
+Processing record 4 | punta arenas 
+Processing record 5 | batticaloa 
+Processing record 6 | barrow 
+Processing record 7 | cape town 
+Processing record 8 | kaeo 
+Processing record 9 | bluff 
+Processing record 10 | arraial do cabo 
+Processing record 11 | qaanaaq 
+Processing record 12 | puerto ayora 
+Processing record 13 | shar 
+Processing record 14 | faanui 
+Processing record 15 | rafaela 
+Processing record 16 | plaster rock 
+Processing record 17 | ponta do sol 
+Processing record 18 | geraldton 
+Processing record 19 | bredasdorp 
+Processing record 20 | sainte-rose 
+Processing record 21 | palabuhanratu 
  Not found: palabuhanratu Skipping 
-Processing record 409 | haibowan 
- Not found: haibowan Skipping 
-Processing record 410 | atuona 
-Processing record 411 | new norfolk 
-Processing record 412 | port elizabeth 
-Processing record 413 | nantucket 
-Processing record 414 | illoqqortoormiut 
- Not found: illoqqortoormiut Skipping 
-Processing record 415 | shellbrook 
-Processing record 416 | poya 
-Processing record 417 | saint-francois 
-Processing record 418 | saint-philippe 
-Processing record 419 | sorvag 
- Not found: sorvag Skipping 
-Processing record 420 | rikitea 
-Processing record 421 | ushuaia 
-Processing record 422 | masterton 
-Processing record 423 | arlit 
-Processing record 424 | punta arenas 
-Processing record 425 | bethel 
-Processing record 426 | choma 
-Processing record 427 | mataura 
-Processing record 428 | bundaberg 
-Processing record 429 | busselton 
-Processing record 430 | bredasdorp 
-Processing record 431 | punta arenas 
-Processing record 432 | severo-kurilsk 
-Processing record 433 | kapaa 
-Processing record 434 | puerto ayora 
-Processing record 435 | albany 
-Processing record 436 | cockburn town 
-Processing record 437 | chapais 
-Processing record 438 | sao filipe 
-Processing record 439 | cagayan de tawi-tawi 
- Not found: cagayan de tawi-tawi Skipping 
-Processing record 440 | bereda 
-Processing record 441 | beringovskiy 
-Processing record 442 | beloha 
-Processing record 443 | esperance 
-Processing record 444 | tha bo 
-Processing record 445 | bambous virieux 
-Processing record 446 | aksarka 
-Processing record 447 | rikitea 
-Processing record 448 | khatanga 
-Processing record 449 | tasiilaq 
-Processing record 450 | cabo san lucas 
-Processing record 451 | los llanos de aridane 
-Processing record 452 | kanigoro 
-Processing record 453 | boyolangu 
-Processing record 454 | solnechnyy 
-Processing record 455 | bethel 
-Processing record 456 | vernon 
-Processing record 457 | san policarpo 
-Processing record 458 | belushya guba 
- Not found: belushya guba Skipping 
-Processing record 459 | barentsburg 
+Processing record 22 | presidente medici 
+Processing record 23 | mungaa 
+Processing record 24 | pascagoula 
+Processing record 25 | barrow 
+Processing record 26 | sibolga 
+Processing record 27 | tuktoyaktuk 
+Processing record 28 | flin flon 
+Processing record 29 | bredasdorp 
+Processing record 30 | kangaatsiaq 
+Processing record 31 | kodiak 
+Processing record 32 | cape town 
+Processing record 33 | mundwa 
+Processing record 34 | bengkulu 
+Processing record 35 | kapaa 
+Processing record 36 | lalibela 
+Processing record 37 | charters towers 
+Processing record 38 | santa isabel 
+Processing record 39 | ongandjera 
+Processing record 40 | gunjur 
+Processing record 41 | kentau 
+Processing record 42 | punta arenas 
+Processing record 43 | avarua 
+Processing record 44 | sao felix do xingu 
+Processing record 45 | tuktoyaktuk 
+Processing record 46 | port alfred 
+Processing record 47 | amderma 
+ Not found: amderma Skipping 
+Processing record 48 | byron bay 
+Processing record 49 | rikitea 
+Processing record 50 | bethel 
+Processing record 51 | cherskiy 
+Processing record 52 | new norfolk 
+Processing record 53 | vaitupu 
+ Not found: vaitupu Skipping 
+Processing record 54 | vaitupu 
+ Not found: vaitupu Skipping 
+Processing record 55 | rikitea 
+Processing record 56 | punta arenas 
+Processing record 57 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 58 | jamestown 
+Processing record 59 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 60 | yar-sale 
+Processing record 61 | karkaralinsk 
+ Not found: karkaralinsk Skipping 
+Processing record 62 | ushuaia 
+Processing record 63 | mataura 
+Processing record 64 | mataura 
+Processing record 65 | mataura 
+Processing record 66 | punta arenas 
+Processing record 67 | khatanga 
+Processing record 68 | albany 
+Processing record 69 | urdzhar 
+ Not found: urdzhar Skipping 
+Processing record 70 | quatre cocos 
+Processing record 71 | kapaa 
+Processing record 72 | arraial do cabo 
+Processing record 73 | evensk 
+Processing record 74 | hobart 
+Processing record 75 | jamestown 
+Processing record 76 | hithadhoo 
+Processing record 77 | qostanay 
+Processing record 78 | qaanaaq 
+Processing record 79 | port hardy 
+Processing record 80 | thompson 
+Processing record 81 | tilichiki 
+Processing record 82 | lander 
+Processing record 83 | ponta do sol 
+Processing record 84 | barentsburg 
  Not found: barentsburg Skipping 
-Processing record 460 | hermanus 
-Processing record 461 | lebu 
-Processing record 462 | cherskiy 
-Processing record 463 | kapaa 
-Processing record 464 | parrita 
-Processing record 465 | verkhniy mamon 
-Processing record 466 | upernavik 
-Processing record 467 | punta arenas 
-Processing record 468 | tsihombe 
- Not found: tsihombe Skipping 
-Processing record 469 | araouane 
-Processing record 470 | port elizabeth 
-Processing record 471 | mataura 
-Processing record 472 | anadyr 
-Processing record 473 | anan 
-Processing record 474 | atuona 
-Processing record 475 | port augusta 
-Processing record 476 | rikitea 
-Processing record 477 | jamestown 
-Processing record 478 | bandarbeyla 
-Processing record 479 | christchurch 
-Processing record 480 | aswan 
-Processing record 481 | viligili 
- Not found: viligili Skipping 
-Processing record 482 | sur 
+Processing record 85 | ushuaia 
+Processing record 86 | khatanga 
+Processing record 87 | saskylakh 
+Processing record 88 | marsh harbour 
+Processing record 89 | odienne 
+Processing record 90 | ilulissat 
+Processing record 91 | carnarvon 
+Processing record 92 | guymon 
+Processing record 93 | priargunsk 
+Processing record 94 | east london 
+Processing record 95 | ushuaia 
+Processing record 96 | rikitea 
+Processing record 97 | bluff 
+Processing record 98 | nalut 
+Processing record 99 | spasskoye 
+Processing record 100 | rikitea 
+Processing record 101 | airai 
+Processing record 102 | westport 
+Processing record 103 | sedelnikovo 
+ Not found: sedelnikovo Skipping 
+Processing record 104 | richards bay 
+Processing record 105 | ushuaia 
+Processing record 106 | calvinia 
+Processing record 107 | saldanha 
+Processing record 108 | puerto ayora 
+Processing record 109 | gat 
+Processing record 110 | east london 
+Processing record 111 | gazanjyk 
+Processing record 112 | mengcheng 
+Processing record 113 | spassk 
+Processing record 114 | uetze 
+Processing record 115 | new norfolk 
+Processing record 116 | vaitupu 
+ Not found: vaitupu Skipping 
+Processing record 117 | mataura 
+Processing record 118 | ribeira grande 
+Processing record 119 | rikitea 
+Processing record 120 | qaanaaq 
+Processing record 121 | haines junction 
+Processing record 122 | kodiak 
+Processing record 123 | rikitea 
+Processing record 124 | vaini 
+Processing record 125 | atuona 
+Processing record 126 | salinopolis 
+Processing record 127 | tuktoyaktuk 
+Processing record 128 | bacolod 
+Processing record 129 | broken hill 
+Processing record 130 | kushima 
+Processing record 131 | eyl 
+Processing record 132 | hofn 
+Processing record 133 | porangatu 
+Processing record 134 | rikitea 
+Processing record 135 | camacha 
+Processing record 136 | assare 
+Processing record 137 | saint-philippe 
+Processing record 138 | mataura 
+Processing record 139 | jamestown 
+Processing record 140 | butaritari 
+Processing record 141 | adre 
+Processing record 142 | georgetown 
+Processing record 143 | gurun 
+Processing record 144 | tumannyy 
+ Not found: tumannyy Skipping 
+Processing record 145 | hermanus 
+Processing record 146 | victoria 
+Processing record 147 | gweta 
+Processing record 148 | klaksvik 
+Processing record 149 | rikitea 
+Processing record 150 | kodiak 
+Processing record 151 | new norfolk 
+Processing record 152 | barcelos 
+Processing record 153 | cockburn town 
+Processing record 154 | barentsburg 
+ Not found: barentsburg Skipping 
+Processing record 155 | kavaratti 
+Processing record 156 | chuy 
+Processing record 157 | ushuaia 
+Processing record 158 | fuling 
+Processing record 159 | mahebourg 
+Processing record 160 | trinidad 
+Processing record 161 | umm lajj 
+Processing record 162 | hilo 
+Processing record 163 | santa rosa 
+Processing record 164 | albany 
+Processing record 165 | vaini 
+Processing record 166 | rio gallegos 
+Processing record 167 | saint-pierre 
+Processing record 168 | ushuaia 
+Processing record 169 | vilhena 
+Processing record 170 | husavik 
+Processing record 171 | abu dhabi 
+Processing record 172 | busselton 
+Processing record 173 | atuona 
+Processing record 174 | ilulissat 
+Processing record 175 | arrecife 
+Processing record 176 | bethel 
+Processing record 177 | tuktoyaktuk 
+Processing record 178 | thomasville 
+Processing record 179 | srednekolymsk 
+Processing record 180 | saskylakh 
+Processing record 181 | porto novo 
+Processing record 182 | codrington 
+Processing record 183 | krasnovishersk 
+Processing record 184 | busselton 
+Processing record 185 | barentsburg 
+ Not found: barentsburg Skipping 
+Processing record 186 | tubuala 
+Processing record 187 | vaini 
+Processing record 188 | port elizabeth 
+Processing record 189 | jiayuguan 
+Processing record 190 | tuktoyaktuk 
+Processing record 191 | talnakh 
+Processing record 192 | sentyabrskiy 
+ Not found: sentyabrskiy Skipping 
+Processing record 193 | kristiinankaupunki 
+Processing record 194 | punta arenas 
+Processing record 195 | lebu 
+Processing record 196 | pirgos 
+Processing record 197 | roebourne 
+Processing record 198 | yeppoon 
+Processing record 199 | haibowan 
+ Not found: haibowan Skipping 
+Processing record 200 | pathein 
+Processing record 201 | ostrovnoy 
+Processing record 202 | yellowknife 
+Processing record 203 | avarua 
+Processing record 204 | yellowknife 
+Processing record 205 | hilo 
+Processing record 206 | atuona 
+Processing record 207 | ushuaia 
+Processing record 208 | tunceli 
+Processing record 209 | saint-philippe 
+Processing record 210 | rikitea 
+Processing record 211 | punta arenas 
+Processing record 212 | mataura 
+Processing record 213 | tasiilaq 
+Processing record 214 | yellowknife 
+Processing record 215 | cape town 
+Processing record 216 | kapaa 
+Processing record 217 | port alfred 
+Processing record 218 | sacramento 
+Processing record 219 | sembe 
+Processing record 220 | pisco 
+Processing record 221 | bluff 
+Processing record 222 | bilibino 
+Processing record 223 | vaini 
+Processing record 224 | safford 
+Processing record 225 | pevek 
+Processing record 226 | bridlington 
+Processing record 227 | rikitea 
+Processing record 228 | nikolskoye 
+Processing record 229 | mullingar 
+Processing record 230 | luderitz 
+Processing record 231 | rikitea 
+Processing record 232 | butaritari 
+Processing record 233 | hobart 
+Processing record 234 | mount isa 
+Processing record 235 | cape town 
+Processing record 236 | hermanus 
+Processing record 237 | lagos 
+Processing record 238 | nome 
+Processing record 239 | ushuaia 
+Processing record 240 | cairns 
+Processing record 241 | kodiak 
+Processing record 242 | calama 
+Processing record 243 | punta arenas 
+Processing record 244 | kaitangata 
+Processing record 245 | butaritari 
+Processing record 246 | kimbe 
+Processing record 247 | tamworth 
+Processing record 248 | ketchikan 
+Processing record 249 | bethel 
+Processing record 250 | cape town 
+Processing record 251 | hasaki 
+Processing record 252 | kapaa 
+Processing record 253 | new norfolk 
+Processing record 254 | carnarvon 
+Processing record 255 | barrow 
+Processing record 256 | mount gambier 
+Processing record 257 | jinchengjiang 
+ Not found: jinchengjiang Skipping 
+Processing record 258 | ribeira grande 
+Processing record 259 | aleksandrov gay 
+Processing record 260 | hasaki 
+Processing record 261 | abbeville 
+Processing record 262 | savannah bight 
+Processing record 263 | north bend 
+Processing record 264 | sola 
+Processing record 265 | albany 
+Processing record 266 | rikitea 
+Processing record 267 | susurluk 
+Processing record 268 | rikitea 
+Processing record 269 | tasiilaq 
+Processing record 270 | albany 
+Processing record 271 | new norfolk 
+Processing record 272 | busselton 
+Processing record 273 | castro 
+Processing record 274 | puerto ayora 
+Processing record 275 | smithers 
+Processing record 276 | mys shmidta 
+ Not found: mys shmidta Skipping 
+Processing record 277 | hovd 
+Processing record 278 | tasiilaq 
+Processing record 279 | tuktoyaktuk 
+Processing record 280 | ushuaia 
+Processing record 281 | ilulissat 
+Processing record 282 | busselton 
+Processing record 283 | olafsvik 
+Processing record 284 | punta arenas 
+Processing record 285 | mareeba 
+Processing record 286 | teknaf 
+Processing record 287 | ushuaia 
+Processing record 288 | sentyabrskiy 
+ Not found: sentyabrskiy Skipping 
+Processing record 289 | punta arenas 
+Processing record 290 | port alfred 
+Processing record 291 | gat 
+Processing record 292 | busselton 
+Processing record 293 | lompoc 
+Processing record 294 | bredasdorp 
+Processing record 295 | kloulklubed 
+Processing record 296 | puerto ayora 
+Processing record 297 | albany 
+Processing record 298 | saleaula 
+ Not found: saleaula Skipping 
+Processing record 299 | qaqortoq 
+Processing record 300 | pingliang 
+Processing record 301 | adrar 
+Processing record 302 | castro 
+Processing record 303 | east london 
+Processing record 304 | rabo de peixe 
+Processing record 305 | ushuaia 
+Processing record 306 | cape town 
+Processing record 307 | buckeye 
+Processing record 308 | vaitupu 
+ Not found: vaitupu Skipping 
+Processing record 309 | yingzhong 
+ Not found: yingzhong Skipping 
+Processing record 310 | atuona 
+Processing record 311 | busselton 
+Processing record 312 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 313 | butembo 
+Processing record 314 | samalaeulu 
+ Not found: samalaeulu Skipping 
+Processing record 315 | gaziantep 
+Processing record 316 | norman wells 
+Processing record 317 | aswan 
+Processing record 318 | ushuaia 
+Processing record 319 | puerto ayora 
+Processing record 320 | ushuaia 
+Processing record 321 | new norfolk 
+Processing record 322 | comodoro rivadavia 
+Processing record 323 | bethel 
+Processing record 324 | cape town 
+Processing record 325 | tete 
+Processing record 326 | kaitangata 
+Processing record 327 | bluff 
+Processing record 328 | mar del plata 
+Processing record 329 | bambous virieux 
+Processing record 330 | cape town 
+Processing record 331 | kapaa 
+Processing record 332 | port alfred 
+Processing record 333 | halifax 
+Processing record 334 | te anau 
+Processing record 335 | bosaso 
+Processing record 336 | port lincoln 
+Processing record 337 | barentsburg 
+ Not found: barentsburg Skipping 
+Processing record 338 | jamestown 
+Processing record 339 | stettler 
+Processing record 340 | codrington 
+Processing record 341 | punta arenas 
+Processing record 342 | carnarvon 
+Processing record 343 | khatanga 
+Processing record 344 | vaini 
+Processing record 345 | cherskiy 
+Processing record 346 | nanakuli 
+Processing record 347 | pangnirtung 
+Processing record 348 | souillac 
+Processing record 349 | hilo 
+Processing record 350 | chuy 
+Processing record 351 | tiksi 
+Processing record 352 | champerico 
+Processing record 353 | hobart 
+Processing record 354 | mataura 
+Processing record 355 | vaini 
+Processing record 356 | rikitea 
+Processing record 357 | provideniya 
+Processing record 358 | saint-philippe 
+Processing record 359 | maghama 
+ Not found: maghama Skipping 
+Processing record 360 | atuona 
+Processing record 361 | butaritari 
+Processing record 362 | tasiilaq 
+Processing record 363 | mataura 
+Processing record 364 | arraial do cabo 
+Processing record 365 | barrow 
+Processing record 366 | belushya guba 
+ Not found: belushya guba Skipping 
+Processing record 367 | anchorage 
+Processing record 368 | mataura 
+Processing record 369 | jamestown 
+Processing record 370 | chapleau 
+Processing record 371 | kodiak 
+Processing record 372 | tomatlan 
+Processing record 373 | punta arenas 
+Processing record 374 | faya 
+Processing record 375 | tuktoyaktuk 
+Processing record 376 | arraial do cabo 
+Processing record 377 | gua musang 
+Processing record 378 | rikitea 
+Processing record 379 | moron 
+Processing record 380 | ponta do sol 
+Processing record 381 | bengkulu 
+Processing record 382 | karamay 
+ Not found: karamay Skipping 
+Processing record 383 | provideniya 
+Processing record 384 | sao filipe 
+Processing record 385 | punta arenas 
+Processing record 386 | tasiilaq 
+Processing record 387 | saint george 
+Processing record 388 | hobart 
+Processing record 389 | fairbanks 
+Processing record 390 | ribeira grande 
+Processing record 391 | hermanus 
+Processing record 392 | sao joao da barra 
+Processing record 393 | tuktoyaktuk 
+Processing record 394 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 395 | punta arenas 
+Processing record 396 | jamestown 
+Processing record 397 | leningradskiy 
+Processing record 398 | riyadh 
+Processing record 399 | tucurui 
+Processing record 400 | busselton 
+Processing record 401 | kruisfontein 
+Processing record 402 | carnarvon 
+Processing record 403 | busselton 
+Processing record 404 | albany 
+Processing record 405 | qaanaaq 
+Processing record 406 | talnakh 
+Processing record 407 | longyearbyen 
+Processing record 408 | leningradskiy 
+Processing record 409 | new norfolk 
+Processing record 410 | cape town 
+Processing record 411 | aksarayskiy 
+Processing record 412 | naron 
+Processing record 413 | lakatoro 
+Processing record 414 | chuy 
+Processing record 415 | rikitea 
+Processing record 416 | carnarvon 
+Processing record 417 | dikson 
+Processing record 418 | ushuaia 
+Processing record 419 | lorengau 
+Processing record 420 | kruisfontein 
+Processing record 421 | mancio lima 
+Processing record 422 | saint george 
+Processing record 423 | constitucion 
+Processing record 424 | cape town 
+Processing record 425 | nanortalik 
+Processing record 426 | novobirilyussy 
+Processing record 427 | mahebourg 
+Processing record 428 | ushuaia 
+Processing record 429 | trinidad 
+Processing record 430 | nikolskoye 
+Processing record 431 | hami 
+Processing record 432 | guzelyurt 
+Processing record 433 | mataura 
+Processing record 434 | hilo 
+Processing record 435 | mahebourg 
+Processing record 436 | rena 
+Processing record 437 | tasiilaq 
+Processing record 438 | faanui 
+Processing record 439 | hithadhoo 
+Processing record 440 | yoshikawa 
+Processing record 441 | cortazar 
+Processing record 442 | punta arenas 
+Processing record 443 | port hardy 
+Processing record 444 | leningradskiy 
+Processing record 445 | nanortalik 
+Processing record 446 | saint george 
+Processing record 447 | bathsheba 
+Processing record 448 | beloha 
+Processing record 449 | ushuaia 
+Processing record 450 | bengkulu 
+Processing record 451 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 452 | ahipara 
+Processing record 453 | lebu 
+Processing record 454 | bluff 
+Processing record 455 | shieli 
+Processing record 456 | hermanus 
+Processing record 457 | ornskoldsvik 
+Processing record 458 | barentsburg 
+ Not found: barentsburg Skipping 
+Processing record 459 | hobart 
+Processing record 460 | alice springs 
+Processing record 461 | sentyabrskiy 
+ Not found: sentyabrskiy Skipping 
+Processing record 462 | hilo 
+Processing record 463 | thompson 
+Processing record 464 | jamestown 
+Processing record 465 | bonthe 
+Processing record 466 | vaitupu 
+ Not found: vaitupu Skipping 
+Processing record 467 | jamestown 
+Processing record 468 | new norfolk 
+Processing record 469 | rikitea 
+Processing record 470 | longyearbyen 
+Processing record 471 | castro 
+Processing record 472 | atuona 
+Processing record 473 | ribeira grande 
+Processing record 474 | palabuhanratu 
+ Not found: palabuhanratu Skipping 
+Processing record 475 | grindavik 
+Processing record 476 | east london 
+Processing record 477 | padang 
+Processing record 478 | esperance 
+Processing record 479 | horodok 
+Processing record 480 | shingu 
+Processing record 481 | alice springs 
+Processing record 482 | ushuaia 
 Processing record 483 | taolanaro 
  Not found: taolanaro Skipping 
-Processing record 484 | pisco 
-Processing record 485 | codrington 
-Processing record 486 | bafra 
-Processing record 487 | sidrolandia 
-Processing record 488 | cape town 
-Processing record 489 | beberibe 
-Processing record 490 | lavrentiya 
-Processing record 491 | nikolskoye 
-Processing record 492 | cape town 
-Processing record 493 | lujan 
-Processing record 494 | hobart 
-Processing record 495 | kyra 
-Processing record 496 | pisco 
-Processing record 497 | chokurdakh 
-Processing record 498 | formoso do araguaia 
- Not found: formoso do araguaia Skipping 
-Processing record 499 | vestmannaeyjar 
-Processing record 500 | talara 
+Processing record 484 | ushuaia 
+Processing record 485 | pushkinskiye gory 
+Processing record 486 | punta arenas 
+Processing record 487 | puerto ayora 
+Processing record 488 | ozgon 
+ Not found: ozgon Skipping 
+Processing record 489 | saint anthony 
+Processing record 490 | vaini 
+Processing record 491 | atuona 
+Processing record 492 | shieli 
+Processing record 493 | busselton 
+Processing record 494 | mandasa 
+Processing record 495 | hilo 
+Processing record 496 | skelleftea 
+Processing record 497 | araouane 
+Processing record 498 | milingimbi 
+ Not found: milingimbi Skipping 
+Processing record 499 | kichera 
+Processing record 500 | palmer 
+Processing record 501 | comodoro rivadavia 
+Processing record 502 | tuatapere 
+Processing record 503 | clinton 
+Processing record 504 | hermanus 
+Processing record 505 | ternate 
+Processing record 506 | thompson 
+Processing record 507 | albany 
+Processing record 508 | vaini 
+Processing record 509 | bubaque 
+Processing record 510 | mackenzie 
+Processing record 511 | zemio 
+Processing record 512 | phangnga 
+Processing record 513 | pevek 
+Processing record 514 | torrevieja 
+Processing record 515 | chimoio 
+Processing record 516 | port elizabeth 
+Processing record 517 | rikitea 
+Processing record 518 | ouallam 
+Processing record 519 | fairbanks 
+Processing record 520 | namibe 
+Processing record 521 | karachi 
+Processing record 522 | vangaindrano 
+Processing record 523 | kysyl-syr 
+Processing record 524 | mar del plata 
+Processing record 525 | rikitea 
+Processing record 526 | punta arenas 
+Processing record 527 | chico 
+Processing record 528 | rikitea 
+Processing record 529 | lebu 
+Processing record 530 | georgetown 
+Processing record 531 | amderma 
+ Not found: amderma Skipping 
+Processing record 532 | saint-philippe 
+Processing record 533 | victoria 
+Processing record 534 | mataura 
+Processing record 535 | karratha 
+Processing record 536 | busselton 
+Processing record 537 | anadyr 
+Processing record 538 | arlit 
+Processing record 539 | chokurdakh 
+Processing record 540 | mullaitivu 
+ Not found: mullaitivu Skipping 
+Processing record 541 | victoria 
+Processing record 542 | hobart 
+Processing record 543 | rikitea 
+Processing record 544 | alyangula 
+Processing record 545 | chissamba 
+Processing record 546 | ponta do sol 
+Processing record 547 | pakxan 
+Processing record 548 | omboue 
+Processing record 549 | ushuaia 
+Processing record 550 | hobart 
+Processing record 551 | ambilobe 
+Processing record 552 | ushuaia 
+Processing record 553 | bredasdorp 
+Processing record 554 | lorengau 
+Processing record 555 | makakilo city 
+Processing record 556 | hobart 
+Processing record 557 | mapiripan 
+Processing record 558 | jamestown 
+Processing record 559 | tambun 
+Processing record 560 | cape town 
+Processing record 561 | amderma 
+ Not found: amderma Skipping 
+Processing record 562 | cabo san lucas 
+Processing record 563 | rikitea 
+Processing record 564 | hobart 
+Processing record 565 | busselton 
+Processing record 566 | constitucion 
+Processing record 567 | thompson 
+Processing record 568 | minas 
+Processing record 569 | butaritari 
+Processing record 570 | rikitea 
+Processing record 571 | ahipara 
+Processing record 572 | licata 
+Processing record 573 | inhambane 
+Processing record 574 | bira 
+Processing record 575 | maarianhamina 
+Processing record 576 | puerto ayora 
+Processing record 577 | sao jose de ribamar 
+Processing record 578 | qaanaaq 
+Processing record 579 | sorvag 
+ Not found: sorvag Skipping 
+Processing record 580 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 581 | rocha 
+Processing record 582 | castro 
+Processing record 583 | kuche 
+ Not found: kuche Skipping 
+Processing record 584 | ushuaia 
+Processing record 585 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 586 | riyadh 
+Processing record 587 | cidreira 
+Processing record 588 | rikitea 
+Processing record 589 | shreveport 
+Processing record 590 | mahebourg 
+Processing record 591 | lapi 
+Processing record 592 | ijaki 
+ Not found: ijaki Skipping 
+Processing record 593 | busselton 
+Processing record 594 | sitka 
+Processing record 595 | barrow 
+Processing record 596 | upernavik 
+Processing record 597 | matara 
+Processing record 598 | husavik 
+Processing record 599 | bela vista de goias 
+Processing record 600 | millinocket 
+Processing record 601 | rikitea 
+Processing record 602 | bredasdorp 
+Processing record 603 | richards bay 
+Processing record 604 | bluff 
+Processing record 605 | srikakulam 
+Processing record 606 | sola 
+Processing record 607 | punta arenas 
+Processing record 608 | kedrovyy 
+Processing record 609 | tumpat 
+Processing record 610 | yulara 
+Processing record 611 | ilulissat 
+Processing record 612 | tuktoyaktuk 
+Processing record 613 | rikitea 
+Processing record 614 | mahebourg 
+Processing record 615 | cape town 
+Processing record 616 | hithadhoo 
+Processing record 617 | puerto ayora 
+Processing record 618 | punta arenas 
+Processing record 619 | lucea 
+Processing record 620 | anadyr 
+Processing record 621 | zhigansk 
+Processing record 622 | busselton 
+Processing record 623 | guerrero negro 
+Processing record 624 | hatillo 
+Processing record 625 | cadillac 
+Processing record 626 | yoichi 
+Processing record 627 | hasaki 
+Processing record 628 | bilibino 
+Processing record 629 | zheleznodorozhnyy 
+Processing record 630 | chuy 
+Processing record 631 | ushuaia 
+Processing record 632 | rikitea 
+Processing record 633 | hobart 
+Processing record 634 | castro 
+Processing record 635 | khokhryaki 
+Processing record 636 | tasiilaq 
+Processing record 637 | mar del plata 
+Processing record 638 | punta arenas 
+Processing record 639 | nome 
+Processing record 640 | severo-kurilsk 
+Processing record 641 | bethel 
+Processing record 642 | alice springs 
+Processing record 643 | utica 
+Processing record 644 | jawor 
+Processing record 645 | kavieng 
+Processing record 646 | alyangula 
+Processing record 647 | sorland 
+Processing record 648 | albany 
+Processing record 649 | belushya guba 
+ Not found: belushya guba Skipping 
+Processing record 650 | hermanus 
+Processing record 651 | saskylakh 
+Processing record 652 | lumberton 
+Processing record 653 | cape town 
+Processing record 654 | butaritari 
+Processing record 655 | rikitea 
+Processing record 656 | half moon bay 
+Processing record 657 | port alfred 
+Processing record 658 | salalah 
+Processing record 659 | cape town 
+Processing record 660 | ihosy 
+Processing record 661 | galle 
+Processing record 662 | geraldton 
+Processing record 663 | nizhneyansk 
+ Not found: nizhneyansk Skipping 
+Processing record 664 | ardakan 
+Processing record 665 | barrhead 
+Processing record 666 | bredasdorp 
+Processing record 667 | kahului 
+Processing record 668 | mataura 
+Processing record 669 | ancud 
+Processing record 670 | ilulissat 
+Processing record 671 | sur 
+Processing record 672 | saint-francois 
+Processing record 673 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 674 | albany 
+Processing record 675 | punta arenas 
+Processing record 676 | kavieng 
+Processing record 677 | the valley 
+Processing record 678 | barrow 
+Processing record 679 | faanui 
+Processing record 680 | tuatapere 
+Processing record 681 | skelleftea 
+Processing record 682 | port elizabeth 
+Processing record 683 | rikitea 
+Processing record 684 | puerto ayora 
+Processing record 685 | chiradzulu 
+Processing record 686 | quanzhou 
+Processing record 687 | ostrovnoy 
+Processing record 688 | wewak 
+Processing record 689 | dolores 
+Processing record 690 | ribeira grande 
+Processing record 691 | atuona 
+Processing record 692 | matane 
+Processing record 693 | demyansk 
+Processing record 694 | puerto ayora 
+Processing record 695 | cape town 
+Processing record 696 | port elizabeth 
+Processing record 697 | albany 
+Processing record 698 | khandagayty 
+Processing record 699 | punta arenas 
+Processing record 700 | kaitangata 
+Processing record 701 | hualmay 
+Processing record 702 | albany 
+Processing record 703 | saleaula 
+ Not found: saleaula Skipping 
+Processing record 704 | rikitea 
+Processing record 705 | bokspits 
+ Not found: bokspits Skipping 
+Processing record 706 | cape town 
+Processing record 707 | narsaq 
+Processing record 708 | eregli 
+Processing record 709 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 710 | punta arenas 
+Processing record 711 | sao filipe 
+Processing record 712 | the pas 
+Processing record 713 | jamestown 
+Processing record 714 | busselton 
+Processing record 715 | ponta do sol 
+Processing record 716 | ushuaia 
+Processing record 717 | samalaeulu 
+ Not found: samalaeulu Skipping 
+Processing record 718 | the valley 
+Processing record 719 | kapaa 
+Processing record 720 | vila franca do campo 
+Processing record 721 | bluff 
+Processing record 722 | khatanga 
+Processing record 723 | chokurdakh 
+Processing record 724 | mehamn 
+Processing record 725 | saint-augustin 
+Processing record 726 | bluff 
+Processing record 727 | talnakh 
+Processing record 728 | kodiak 
+Processing record 729 | bolungarvik 
+ Not found: bolungarvik Skipping 
+Processing record 730 | mataura 
+Processing record 731 | new norfolk 
+Processing record 732 | portland 
+Processing record 733 | chuy 
+Processing record 734 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 735 | puerto varas 
+Processing record 736 | calama 
+Processing record 737 | sokoni 
+Processing record 738 | aleksandrovskoye 
+Processing record 739 | miramar 
+Processing record 740 | victoria 
+Processing record 741 | busselton 
+Processing record 742 | rikitea 
+Processing record 743 | port elizabeth 
+Processing record 744 | talnakh 
+Processing record 745 | morros 
+Processing record 746 | coquimbo 
+Processing record 747 | castro 
+Processing record 748 | tuktoyaktuk 
+Processing record 749 | maumere 
+Processing record 750 | isangel 
+Processing record 751 | atuona 
+Processing record 752 | severo-kurilsk 
+Processing record 753 | port lincoln 
+Processing record 754 | pelym 
+Processing record 755 | rikitea 
+Processing record 756 | puerto ayora 
+Processing record 757 | pevek 
+Processing record 758 | georgetown 
+Processing record 759 | hilo 
+Processing record 760 | punta arenas 
+Processing record 761 | brive-la-gaillarde 
+Processing record 762 | arlit 
+Processing record 763 | qaanaaq 
+Processing record 764 | rikitea 
+Processing record 765 | ushuaia 
+Processing record 766 | port lincoln 
+Processing record 767 | ponta do sol 
+Processing record 768 | new norfolk 
+Processing record 769 | arevashogh 
+Processing record 770 | yellowknife 
+Processing record 771 | zhuhai 
+Processing record 772 | atambua 
+Processing record 773 | venado tuerto 
+Processing record 774 | ribeira grande 
+Processing record 775 | chuy 
+Processing record 776 | albany 
+Processing record 777 | mar del plata 
+Processing record 778 | grindavik 
+Processing record 779 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 780 | castro 
+Processing record 781 | hilo 
+Processing record 782 | clyde river 
+Processing record 783 | lagoa 
+Processing record 784 | port alfred 
+Processing record 785 | hermanus 
+Processing record 786 | kapaa 
+Processing record 787 | tateyama 
+Processing record 788 | carutapera 
+Processing record 789 | hinton 
+Processing record 790 | dikson 
+Processing record 791 | hellvik 
+Processing record 792 | barentsburg 
+ Not found: barentsburg Skipping 
+Processing record 793 | tuktoyaktuk 
+Processing record 794 | ridgecrest 
+Processing record 795 | san borja 
+Processing record 796 | bilma 
+Processing record 797 | ahipara 
+Processing record 798 | ilulissat 
+Processing record 799 | trofors 
+Processing record 800 | jamestown 
+Processing record 801 | hofn 
+Processing record 802 | penzance 
+Processing record 803 | hobart 
+Processing record 804 | vaini 
+Processing record 805 | obama 
+Processing record 806 | avera 
+Processing record 807 | gloversville 
+Processing record 808 | carnarvon 
+Processing record 809 | loudeac 
+Processing record 810 | rikitea 
+Processing record 811 | bredasdorp 
+Processing record 812 | thompson 
+Processing record 813 | hobart 
+Processing record 814 | yellowknife 
+Processing record 815 | butaritari 
+Processing record 816 | lompoc 
+Processing record 817 | rikitea 
+Processing record 818 | atuona 
+Processing record 819 | norman wells 
+Processing record 820 | puerto ayora 
+Processing record 821 | faya 
+Processing record 822 | busselton 
+Processing record 823 | xuddur 
+Processing record 824 | nautla 
+Processing record 825 | busselton 
+Processing record 826 | quelimane 
+Processing record 827 | ushuaia 
+Processing record 828 | castro 
+Processing record 829 | vaini 
+Processing record 830 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 831 | kaitangata 
+Processing record 832 | qaanaaq 
+Processing record 833 | chokurdakh 
+Processing record 834 | tuktoyaktuk 
+Processing record 835 | neuquen 
+Processing record 836 | anloga 
+Processing record 837 | butaritari 
+Processing record 838 | ushuaia 
+Processing record 839 | bengkulu 
+Processing record 840 | katsuura 
+Processing record 841 | mataura 
+Processing record 842 | albany 
+Processing record 843 | tiksi 
+Processing record 844 | nome 
+Processing record 845 | albany 
+Processing record 846 | ushuaia 
+Processing record 847 | busselton 
+Processing record 848 | khorixas 
+Processing record 849 | araouane 
+Processing record 850 | half moon bay 
+Processing record 851 | batemans bay 
+Processing record 852 | mataura 
+Processing record 853 | beira 
+Processing record 854 | ribeira grande 
+Processing record 855 | haibowan 
+ Not found: haibowan Skipping 
+Processing record 856 | barrow 
+Processing record 857 | georgetown 
+Processing record 858 | upernavik 
+Processing record 859 | codrington 
+Processing record 860 | ushuaia 
+Processing record 861 | grand river south east 
+ Not found: grand river south east Skipping 
+Processing record 862 | rikitea 
+Processing record 863 | cidreira 
+Processing record 864 | poya 
+Processing record 865 | hegang 
+Processing record 866 | vostok 
+Processing record 867 | rikitea 
+Processing record 868 | huilong 
+Processing record 869 | hilo 
+Processing record 870 | puerto ayora 
+Processing record 871 | rikitea 
+Processing record 872 | umm durman 
+ Not found: umm durman Skipping 
+Processing record 873 | port elizabeth 
+Processing record 874 | hilo 
+Processing record 875 | alenquer 
+Processing record 876 | atuona 
+Processing record 877 | kingori 
+Processing record 878 | vila velha 
+Processing record 879 | butaritari 
+Processing record 880 | jamestown 
+Processing record 881 | faanui 
+Processing record 882 | rikitea 
+Processing record 883 | suzu 
+ Not found: suzu Skipping 
+Processing record 884 | belushya guba 
+ Not found: belushya guba Skipping 
+Processing record 885 | poum 
+Processing record 886 | attawapiskat 
+ Not found: attawapiskat Skipping 
+Processing record 887 | mataura 
+Processing record 888 | jamestown 
+Processing record 889 | campbellton 
+Processing record 890 | kahului 
+Processing record 891 | rawson 
+Processing record 892 | srednekolymsk 
+Processing record 893 | saleaula 
+ Not found: saleaula Skipping 
+Processing record 894 | nizhneyansk 
+ Not found: nizhneyansk Skipping 
+Processing record 895 | nuuk 
+Processing record 896 | kudahuvadhoo 
+Processing record 897 | atuona 
+Processing record 898 | khatanga 
+Processing record 899 | hilo 
+Processing record 900 | mogadishu 
+Processing record 901 | trairi 
+Processing record 902 | hilo 
+Processing record 903 | fukue 
+Processing record 904 | kruisfontein 
+Processing record 905 | vaini 
+Processing record 906 | new norfolk 
+Processing record 907 | vila franca do campo 
+Processing record 908 | rikitea 
+Processing record 909 | punta arenas 
+Processing record 910 | san patricio 
+Processing record 911 | nikolskoye 
+Processing record 912 | cabedelo 
+Processing record 913 | kanniyakumari 
+Processing record 914 | east london 
+Processing record 915 | bethel 
+Processing record 916 | klaksvik 
+Processing record 917 | tsihombe 
+ Not found: tsihombe Skipping 
+Processing record 918 | omsukchan 
+Processing record 919 | victoria 
+Processing record 920 | ushuaia 
+Processing record 921 | nikolskoye 
+Processing record 922 | thinadhoo 
+Processing record 923 | chlorakas 
+Processing record 924 | kapaa 
+Processing record 925 | newport 
+Processing record 926 | castro 
+Processing record 927 | ponta do sol 
+Processing record 928 | deputatskiy 
+Processing record 929 | rikitea 
+Processing record 930 | tuatapere 
+Processing record 931 | kirakira 
+Processing record 932 | chumikan 
+Processing record 933 | pisco 
+Processing record 934 | mys shmidta 
+ Not found: mys shmidta Skipping 
+Processing record 935 | cockburn town 
+Processing record 936 | dhidhdhoo 
+Processing record 937 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 938 | ostrovnoy 
+Processing record 939 | yellowknife 
+Processing record 940 | attawapiskat 
+ Not found: attawapiskat Skipping 
+Processing record 941 | katsuura 
+Processing record 942 | albany 
+Processing record 943 | cape town 
+Processing record 944 | rikitea 
+Processing record 945 | katangli 
+Processing record 946 | burgeo 
+Processing record 947 | dunedin 
+Processing record 948 | fortuna 
+Processing record 949 | rikitea 
+Processing record 950 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 951 | cherskiy 
+Processing record 952 | geraldton 
+Processing record 953 | collierville 
+Processing record 954 | ust-maya 
+Processing record 955 | mataura 
+Processing record 956 | bluff 
+Processing record 957 | mahebourg 
+Processing record 958 | jawhar 
+Processing record 959 | rikitea 
+Processing record 960 | camapua 
+Processing record 961 | panjakent 
+Processing record 962 | naze 
+Processing record 963 | atuona 
+Processing record 964 | meyungs 
+ Not found: meyungs Skipping 
+Processing record 965 | tuktoyaktuk 
+Processing record 966 | punta arenas 
+Processing record 967 | ternate 
+Processing record 968 | santa cruz 
+Processing record 969 | punta arenas 
+Processing record 970 | kamenskoye 
+ Not found: kamenskoye Skipping 
+Processing record 971 | east london 
+Processing record 972 | sakakah 
+Processing record 973 | bredasdorp 
+Processing record 974 | busselton 
+Processing record 975 | hithadhoo 
+Processing record 976 | mataura 
+Processing record 977 | new norfolk 
+Processing record 978 | grand centre 
+ Not found: grand centre Skipping 
+Processing record 979 | inirida 
+Processing record 980 | chuy 
+Processing record 981 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 982 | nhulunbuy 
+Processing record 983 | benghazi 
+Processing record 984 | khatanga 
+Processing record 985 | sioux lookout 
+Processing record 986 | rikitea 
+Processing record 987 | ushuaia 
+Processing record 988 | kruisfontein 
+Processing record 989 | amapa 
+Processing record 990 | yellowknife 
+Processing record 991 | compostela 
+Processing record 992 | bocaranga 
+ Not found: bocaranga Skipping 
+Processing record 993 | caravelas 
+Processing record 994 | albany 
+Processing record 995 | hermanus 
+Processing record 996 | lompoc 
+Processing record 997 | hermanus 
+Processing record 998 | namibe 
+Processing record 999 | coihaique 
+Processing record 1000 | castro 
+Processing record 1001 | hamilton 
+Processing record 1002 | biltine 
+Processing record 1003 | hailey 
+Processing record 1004 | abiy adi 
+ Not found: abiy adi Skipping 
+Processing record 1005 | lodja 
+Processing record 1006 | hermanus 
+Processing record 1007 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 1008 | hermanus 
+Processing record 1009 | saint george 
+Processing record 1010 | sentyabrskiy 
+ Not found: sentyabrskiy Skipping 
+Processing record 1011 | thompson 
+Processing record 1012 | clyde river 
+Processing record 1013 | albany 
+Processing record 1014 | sentyabrskiy 
+ Not found: sentyabrskiy Skipping 
+Processing record 1015 | bethel 
+Processing record 1016 | seddon 
+Processing record 1017 | barentsburg 
+ Not found: barentsburg Skipping 
+Processing record 1018 | khatanga 
+Processing record 1019 | busselton 
+Processing record 1020 | mar del plata 
+Processing record 1021 | ushuaia 
+Processing record 1022 | arraial do cabo 
+Processing record 1023 | itaueira 
+Processing record 1024 | saskylakh 
+Processing record 1025 | cape town 
+Processing record 1026 | alta floresta 
+Processing record 1027 | krasnoselkup 
+Processing record 1028 | kendari 
+Processing record 1029 | kloulklubed 
+Processing record 1030 | mount gambier 
+Processing record 1031 | vaini 
+Processing record 1032 | carroll 
+Processing record 1033 | north myrtle beach 
+Processing record 1034 | shiraoi 
+Processing record 1035 | albany 
+Processing record 1036 | busselton 
+Processing record 1037 | guerrero negro 
+Processing record 1038 | west point 
+Processing record 1039 | george town 
+Processing record 1040 | mishan 
+Processing record 1041 | ushuaia 
+Processing record 1042 | rikitea 
+Processing record 1043 | moyale 
+Processing record 1044 | ancud 
+Processing record 1045 | new hope 
+Processing record 1046 | krasnohrad 
+Processing record 1047 | terney 
+Processing record 1048 | louis trichardt 
+Processing record 1049 | clyde river 
+Processing record 1050 | bolungarvik 
+ Not found: bolungarvik Skipping 
+Processing record 1051 | vanimo 
+Processing record 1052 | yellowknife 
+Processing record 1053 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 1054 | port alfred 
+Processing record 1055 | ponta do sol 
+Processing record 1056 | bonavista 
+Processing record 1057 | handwara 
+ Not found: handwara Skipping 
+Processing record 1058 | kruisfontein 
+Processing record 1059 | hermanus 
+Processing record 1060 | rikitea 
+Processing record 1061 | cape town 
+Processing record 1062 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 1063 | mahebourg 
+Processing record 1064 | atuona 
+Processing record 1065 | hobart 
+Processing record 1066 | rikitea 
+Processing record 1067 | mataura 
+Processing record 1068 | viedma 
+Processing record 1069 | cockburn town 
+Processing record 1070 | atuona 
+Processing record 1071 | ushuaia 
+Processing record 1072 | busselton 
+Processing record 1073 | atuona 
+Processing record 1074 | avarua 
+Processing record 1075 | bluff 
+Processing record 1076 | severo-kurilsk 
+Processing record 1077 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 1078 | panaba 
+Processing record 1079 | lompoc 
+Processing record 1080 | punta arenas 
+Processing record 1081 | kabo 
+Processing record 1082 | mikuni 
+Processing record 1083 | bluff 
+Processing record 1084 | portland 
+Processing record 1085 | georgetown 
+Processing record 1086 | saleaula 
+ Not found: saleaula Skipping 
+Processing record 1087 | abaza 
+Processing record 1088 | pisco 
+Processing record 1089 | formosa 
+Processing record 1090 | rikitea 
+Processing record 1091 | albany 
+Processing record 1092 | alofi 
+Processing record 1093 | nemuro 
+Processing record 1094 | clyde river 
+Processing record 1095 | jiazi 
+Processing record 1096 | nemuro 
+Processing record 1097 | bhanvad 
+Processing record 1098 | medicine hat 
+Processing record 1099 | dikson 
+Processing record 1100 | albany 
+Processing record 1101 | gidole 
+Processing record 1102 | muros 
+Processing record 1103 | rikitea 
+Processing record 1104 | leiyang 
+Processing record 1105 | manjeshwar 
+Processing record 1106 | saskylakh 
+Processing record 1107 | port alfred 
+Processing record 1108 | tigil 
+Processing record 1109 | tiznit 
+Processing record 1110 | tabuk 
+Processing record 1111 | darhan 
+Processing record 1112 | tuatapere 
+Processing record 1113 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 1114 | mar del plata 
+Processing record 1115 | sisimiut 
+Processing record 1116 | chuy 
+Processing record 1117 | san patricio 
+Processing record 1118 | ulladulla 
+Processing record 1119 | kapaa 
+Processing record 1120 | ushuaia 
+Processing record 1121 | khatanga 
+Processing record 1122 | suzano 
+Processing record 1123 | yellowknife 
+Processing record 1124 | broome 
+Processing record 1125 | samusu 
+ Not found: samusu Skipping 
+Processing record 1126 | helong 
+Processing record 1127 | victoria 
+Processing record 1128 | tianpeng 
+Processing record 1129 | codrington 
+Processing record 1130 | east london 
+Processing record 1131 | rikitea 
+Processing record 1132 | anshun 
+Processing record 1133 | ballina 
+Processing record 1134 | bluff 
+Processing record 1135 | sibolga 
+Processing record 1136 | pundaguitan 
+Processing record 1137 | barentsburg 
+ Not found: barentsburg Skipping 
+Processing record 1138 | isangel 
+Processing record 1139 | qaanaaq 
+Processing record 1140 | saint-leu 
+Processing record 1141 | barentsburg 
+ Not found: barentsburg Skipping 
+Processing record 1142 | kapaa 
+Processing record 1143 | new norfolk 
+Processing record 1144 | iskateley 
+Processing record 1145 | muros 
+Processing record 1146 | ushuaia 
+Processing record 1147 | oneonta 
+Processing record 1148 | sana 
+Processing record 1149 | grindavik 
+Processing record 1150 | salalah 
+Processing record 1151 | kalabo 
+Processing record 1152 | hermanus 
+Processing record 1153 | pendleton 
+Processing record 1154 | belushya guba 
+ Not found: belushya guba Skipping 
+Processing record 1155 | albany 
+Processing record 1156 | vaitupu 
+ Not found: vaitupu Skipping 
+Processing record 1157 | isa khel 
+Processing record 1158 | mataura 
+Processing record 1159 | padang 
+Processing record 1160 | zhigansk 
+Processing record 1161 | belmonte 
+Processing record 1162 | albany 
+Processing record 1163 | upernavik 
+Processing record 1164 | bethel 
+Processing record 1165 | hofn 
+Processing record 1166 | chapada dos guimaraes 
+Processing record 1167 | necochea 
+Processing record 1168 | the valley 
+Processing record 1169 | bilibino 
+Processing record 1170 | bluefield 
+Processing record 1171 | laguna 
+Processing record 1172 | jamestown 
+Processing record 1173 | pemangkat 
+Processing record 1174 | cabo san lucas 
+Processing record 1175 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 1176 | new norfolk 
+Processing record 1177 | ushuaia 
+Processing record 1178 | vaini 
+Processing record 1179 | faanui 
+Processing record 1180 | ribeira grande 
+Processing record 1181 | kavieng 
+Processing record 1182 | atuona 
+Processing record 1183 | hermanus 
+Processing record 1184 | barentsburg 
+ Not found: barentsburg Skipping 
+Processing record 1185 | narasannapeta 
+Processing record 1186 | ushuaia 
+Processing record 1187 | ushuaia 
+Processing record 1188 | georgetown 
+Processing record 1189 | bluff 
+Processing record 1190 | micheweni 
+Processing record 1191 | tual 
+Processing record 1192 | warrnambool 
+Processing record 1193 | cayenne 
+Processing record 1194 | bluff 
+Processing record 1195 | ushuaia 
+Processing record 1196 | punta arenas 
+Processing record 1197 | gambela 
+Processing record 1198 | mataura 
+Processing record 1199 | ratlam 
+Processing record 1200 | dicabisagan 
+Processing record 1201 | belushya guba 
+ Not found: belushya guba Skipping 
+Processing record 1202 | iisalmi 
+Processing record 1203 | carballo 
+Processing record 1204 | bluff 
+Processing record 1205 | busselton 
+Processing record 1206 | fort nelson 
+Processing record 1207 | wolgast 
+Processing record 1208 | esperance 
+Processing record 1209 | barentsburg 
+ Not found: barentsburg Skipping 
+Processing record 1210 | praia 
+Processing record 1211 | bluff 
+Processing record 1212 | xam nua 
+Processing record 1213 | san patricio 
+Processing record 1214 | cantanhede 
+Processing record 1215 | vestmanna 
+Processing record 1216 | nanortalik 
+Processing record 1217 | karaul 
+ Not found: karaul Skipping 
+Processing record 1218 | college 
+Processing record 1219 | albany 
+Processing record 1220 | norman wells 
+Processing record 1221 | yellowknife 
+Processing record 1222 | korla 
+Processing record 1223 | jamestown 
+Processing record 1224 | tres marias 
+Processing record 1225 | carnarvon 
+Processing record 1226 | ganta 
+Processing record 1227 | rikitea 
+Processing record 1228 | puerto ayora 
+Processing record 1229 | lorengau 
+Processing record 1230 | rikitea 
+Processing record 1231 | nanortalik 
+Processing record 1232 | rio gallegos 
+Processing record 1233 | punta arenas 
+Processing record 1234 | albany 
+Processing record 1235 | punta arenas 
+Processing record 1236 | mataura 
+Processing record 1237 | busselton 
+Processing record 1238 | akdepe 
+Processing record 1239 | punta arenas 
+Processing record 1240 | sao filipe 
+Processing record 1241 | mys shmidta 
+ Not found: mys shmidta Skipping 
+Processing record 1242 | vaini 
+Processing record 1243 | bulawayo 
+Processing record 1244 | lebu 
+Processing record 1245 | mattru 
+Processing record 1246 | cusset 
+Processing record 1247 | bardiyah 
+Processing record 1248 | ushuaia 
+Processing record 1249 | huanren 
+Processing record 1250 | amderma 
+ Not found: amderma Skipping 
+Processing record 1251 | portland 
+Processing record 1252 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 1253 | tuatapere 
+Processing record 1254 | punta arenas 
+Processing record 1255 | puerto ayora 
+Processing record 1256 | mataura 
+Processing record 1257 | paamiut 
+Processing record 1258 | asyut 
+Processing record 1259 | alexandria 
+Processing record 1260 | hermanus 
+Processing record 1261 | danilovka 
+Processing record 1262 | leningradskiy 
+Processing record 1263 | carnarvon 
+Processing record 1264 | chuy 
+Processing record 1265 | albany 
+Processing record 1266 | goderich 
+Processing record 1267 | mataura 
+Processing record 1268 | nome 
+Processing record 1269 | san policarpo 
+Processing record 1270 | ushuaia 
+Processing record 1271 | campbell river 
+Processing record 1272 | ilo 
+Processing record 1273 | ribeira grande 
+Processing record 1274 | cape town 
+Processing record 1275 | vao 
+Processing record 1276 | busselton 
+Processing record 1277 | rikitea 
+Processing record 1278 | creel 
+Processing record 1279 | busselton 
+Processing record 1280 | tiksi 
+Processing record 1281 | bredasdorp 
+Processing record 1282 | albany 
+Processing record 1283 | qaanaaq 
+Processing record 1284 | rikitea 
+Processing record 1285 | ushuaia 
+Processing record 1286 | aklavik 
+Processing record 1287 | naze 
+Processing record 1288 | manakara 
+Processing record 1289 | saint-augustin 
+Processing record 1290 | ituni 
+ Not found: ituni Skipping 
+Processing record 1291 | vao 
+Processing record 1292 | port moresby 
+Processing record 1293 | matay 
+Processing record 1294 | tuktoyaktuk 
+Processing record 1295 | ushuaia 
+Processing record 1296 | ngukurr 
+ Not found: ngukurr Skipping 
+Processing record 1297 | jiaozuo 
+Processing record 1298 | mataura 
+Processing record 1299 | la primavera 
+Processing record 1300 | sisimiut 
+Processing record 1301 | pevek 
+Processing record 1302 | mount isa 
+Processing record 1303 | harper 
+Processing record 1304 | kapaa 
+Processing record 1305 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 1306 | battle creek 
+Processing record 1307 | ondorhaan 
+ Not found: ondorhaan Skipping 
+Processing record 1308 | berlevag 
+Processing record 1309 | punta arenas 
+Processing record 1310 | punta arenas 
+Processing record 1311 | katsuura 
+Processing record 1312 | hobart 
+Processing record 1313 | basco 
+Processing record 1314 | mataura 
+Processing record 1315 | tasiilaq 
+Processing record 1316 | mataura 
+Processing record 1317 | bluff 
+Processing record 1318 | lalibela 
+Processing record 1319 | buta 
+Processing record 1320 | torbay 
+Processing record 1321 | jamestown 
+Processing record 1322 | punta arenas 
+Processing record 1323 | punta arenas 
+Processing record 1324 | cape town 
+Processing record 1325 | cherskiy 
+Processing record 1326 | warrington 
+Processing record 1327 | rikitea 
+Processing record 1328 | narsaq 
+Processing record 1329 | kavieng 
+Processing record 1330 | neverkino 
+Processing record 1331 | clyde river 
+Processing record 1332 | vaini 
+Processing record 1333 | thompson 
+Processing record 1334 | vaini 
+Processing record 1335 | constitucion 
+Processing record 1336 | cabo san lucas 
+Processing record 1337 | grand gaube 
+Processing record 1338 | yellowknife 
+Processing record 1339 | wanning 
+Processing record 1340 | lajas 
+Processing record 1341 | new norfolk 
+Processing record 1342 | victor harbor 
+Processing record 1343 | sorong 
+Processing record 1344 | nizhneyansk 
+ Not found: nizhneyansk Skipping 
+Processing record 1345 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 1346 | barbar 
+ Not found: barbar Skipping 
+Processing record 1347 | kodiak 
+Processing record 1348 | punta arenas 
+Processing record 1349 | shahr-e babak 
+Processing record 1350 | jamestown 
+Processing record 1351 | kashan 
+Processing record 1352 | mar del plata 
+Processing record 1353 | tumannyy 
+ Not found: tumannyy Skipping 
+Processing record 1354 | jamestown 
+Processing record 1355 | souillac 
+Processing record 1356 | hermanus 
+Processing record 1357 | lasa 
+Processing record 1358 | hualmay 
+Processing record 1359 | mataura 
+Processing record 1360 | vila franca do campo 
+Processing record 1361 | port alfred 
+Processing record 1362 | tuatapere 
+Processing record 1363 | mataura 
+Processing record 1364 | vostok 
+Processing record 1365 | ambilobe 
+Processing record 1366 | virden 
+Processing record 1367 | taolanaro 
+ Not found: taolanaro Skipping 
+Processing record 1368 | eureka 
+Processing record 1369 | rikitea 
+Processing record 1370 | sitka 
+Processing record 1371 | rikitea 
+Processing record 1372 | shitanjing 
+Processing record 1373 | saint cloud 
+Processing record 1374 | bengkulu 
+Processing record 1375 | chokurdakh 
+Processing record 1376 | tasiilaq 
+Processing record 1377 | bredasdorp 
+Processing record 1378 | krasnoselkup 
+Processing record 1379 | salalah 
+Processing record 1380 | bluff 
+Processing record 1381 | east london 
+Processing record 1382 | murray bridge 
+Processing record 1383 | bredasdorp 
+Processing record 1384 | illoqqortoormiut 
+ Not found: illoqqortoormiut Skipping 
+Processing record 1385 | flin flon 
+Processing record 1386 | maragogi 
+Processing record 1387 | puerto ayora 
+Processing record 1388 | pedasi 
+Processing record 1389 | ahipara 
+Processing record 1390 | saint-philippe 
+Processing record 1391 | manzhouli 
+Processing record 1392 | mbaiki 
+Processing record 1393 | rikitea 
+Processing record 1394 | bondo 
+Processing record 1395 | buraydah 
+Processing record 1396 | kuche 
+ Not found: kuche Skipping 
+Processing record 1397 | diamantino 
+Processing record 1398 | atuona 
+Processing record 1399 | nikolskoye 
+Processing record 1400 | ushuaia 
+Processing record 1401 | hermanus 
+Processing record 1402 | tuktoyaktuk 
+Processing record 1403 | longyearbyen 
+Processing record 1404 | yerbogachen 
+Processing record 1405 | busselton 
+Processing record 1406 | new norfolk 
+Processing record 1407 | cherskiy 
+Processing record 1408 | sorong 
+Processing record 1409 | kaytitinga 
+Processing record 1410 | the hammocks 
+Processing record 1411 | butaritari 
+Processing record 1412 | hermanus 
+Processing record 1413 | mataura 
+Processing record 1414 | nemuro 
+Processing record 1415 | sao filipe 
+Processing record 1416 | notse 
+Processing record 1417 | bilma 
+Processing record 1418 | ponta do sol 
+Processing record 1419 | blonduos 
+ Not found: blonduos Skipping 
+Processing record 1420 | bethel 
+Processing record 1421 | sysert 
+Processing record 1422 | puerto ayora 
+Processing record 1423 | yulara 
+Processing record 1424 | hermanus 
+Processing record 1425 | olenino 
+Processing record 1426 | upernavik 
+Processing record 1427 | mayo 
+Processing record 1428 | kavieng 
+Processing record 1429 | ilulissat 
+Processing record 1430 | atuona 
+Processing record 1431 | kaeo 
+Processing record 1432 | rocha 
+Processing record 1433 | nguru 
+Processing record 1434 | tiksi 
+Processing record 1435 | leningradskiy 
+Processing record 1436 | luderitz 
+Processing record 1437 | sorland 
+Processing record 1438 | aykhal 
+Processing record 1439 | busselton 
+Processing record 1440 | asau 
+Processing record 1441 | flinders 
+Processing record 1442 | kutulik 
+Processing record 1443 | butaritari 
+Processing record 1444 | richards bay 
+Processing record 1445 | saskylakh 
+Processing record 1446 | hirara 
+Processing record 1447 | bikapur 
+Processing record 1448 | pimentel 
+Processing record 1449 | akcakoca 
+Processing record 1450 | turinskaya sloboda 
+Processing record 1451 | jawhar 
+Processing record 1452 | vammala 
+Processing record 1453 | georgetown 
+Processing record 1454 | raudeberg 
+Processing record 1455 | novoyegoryevskoye 
+ Not found: novoyegoryevskoye Skipping 
+Processing record 1456 | grindavik 
+Processing record 1457 | disna 
+Processing record 1458 | vardo 
+Processing record 1459 | port hardy 
+Processing record 1460 | kapaa 
+Processing record 1461 | rikitea 
+Processing record 1462 | serpneve 
+Processing record 1463 | albany 
+Processing record 1464 | punta arenas 
+Processing record 1465 | coihaique 
+Processing record 1466 | severo-kurilsk 
+Processing record 1467 | bambous virieux 
+Processing record 1468 | mtwara 
+Processing record 1469 | thompson 
+Processing record 1470 | pine bluff 
+Processing record 1471 | chemax 
+Processing record 1472 | hambantota 
+Processing record 1473 | lorengau 
+Processing record 1474 | arraial do cabo 
+Processing record 1475 | kodinsk 
+Processing record 1476 | hihifo 
+ Not found: hihifo Skipping 
+Processing record 1477 | mataura 
+Processing record 1478 | bolgatanga 
+Processing record 1479 | shingu 
+Processing record 1480 | ushuaia 
+Processing record 1481 | betsiamites 
+Processing record 1482 | amudat 
+Processing record 1483 | palembang 
+Processing record 1484 | broome 
+Processing record 1485 | vaini 
+Processing record 1486 | chokurdakh 
+Processing record 1487 | mugur-aksy 
+Processing record 1488 | mount gambier 
+Processing record 1489 | hilo 
+Processing record 1490 | severo-kurilsk 
+Processing record 1491 | hermanus 
+Processing record 1492 | cape town 
+Processing record 1493 | hithadhoo 
+Processing record 1494 | carnarvon 
+Processing record 1495 | atuona 
+Processing record 1496 | cabo san lucas 
+Processing record 1497 | khatanga 
+Processing record 1498 | atuona 
+Processing record 1499 | atuona 
+Processing record 1500 | tasiilaq 
